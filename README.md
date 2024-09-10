@@ -37,10 +37,10 @@ Este projeto implementa o componente iPhone, que inclui três funcionalidades pr
 
 ```bash
 # Clone o repositório:
-git clone https://github.com/o0brunolopes0o/dio-trilha-java-basico/tree/main/desafio-poo
+git clone https://github.com/o0brunolopes0o/dio-desafio-poo
 
 # Compile o projeto:
-cd projeto-iphone-component
+cd dio-desafio-poo
 javac -d bin src/*.java
 
 # Execute o projeto:
